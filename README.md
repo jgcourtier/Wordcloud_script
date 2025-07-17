@@ -11,5 +11,3 @@ service
 wonderful
 
 
-The query from MSSQL and database details have been removed for obvious reasons.
-
